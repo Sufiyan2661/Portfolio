@@ -50,7 +50,7 @@ const Hero = () => {
             >
               <button
                 onClick={() =>
-                  window.open("/public/mohd_sufiyan_resume1.pdf")
+                  window.open("/mohd_sufiyan_resume1.pdf")
                 }
                 
               >
